@@ -6,7 +6,7 @@ spring:
     name: app
 
 tracing:
-  url: http://localhost:4318/v1/traces
+  url: http://10.106.220.152:4318/v1/traces
 
 management:
   tracing:
